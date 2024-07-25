@@ -4,7 +4,6 @@
 
 # Top komutundaki görsel bir sunucudan alınmıştır üzerinde oynama yapılmıştır bilginiz olsun.
 
-##LeaderBoard
 ![Screenshot_1](https://github.com/user-attachments/assets/ff11a565-ac8e-4dff-9e3c-49eaf255d6a8)
 ![Screenshot_2](https://github.com/user-attachments/assets/0aea2026-e4fc-4ed4-8493-ac767d06b018)
 
