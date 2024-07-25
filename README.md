@@ -4,6 +4,10 @@
 
 # Top komutundaki görsel bir sunucudan alınmıştır üzerinde oynama yapılmıştır bilginiz olsun.
 
+##LeaderBoard
+![Screenshot_1](https://github.com/user-attachments/assets/ff11a565-ac8e-4dff-9e3c-49eaf255d6a8)
+![Screenshot_2](https://github.com/user-attachments/assets/0aea2026-e4fc-4ed4-8493-ac767d06b018)
+
 ![Screenshot_1](https://github.com/user-attachments/assets/634665fa-9b27-4c99-bfa4-9e30d8b5e1f9)
 ![Screenshot_2](https://github.com/user-attachments/assets/ec5e536e-e892-46a5-a825-362c92acd9a2)
 ![Screenshot_3](https://github.com/user-attachments/assets/1ce5ad7f-edd7-4792-85b7-c59866557ca4)
@@ -18,3 +22,4 @@
 ![user](https://github.com/user-attachments/assets/486c5762-cb88-497c-8a07-83cf1662029c)
 ![stream](https://github.com/user-attachments/assets/c4968135-4cbc-4b33-b65f-6e135cf8c545)
 ![camera](https://github.com/user-attachments/assets/6bae13ee-3ba3-4a2d-8c8b-9867b18c5d3f)
+
