@@ -1,4 +1,4 @@
-# Satilik-Discord-Stat-Bot
+# Sunucunularınıza-Bot-Yapılır
 # Extra kod yapılır ek ücrete girer bilginiz olmak üzere.
 # İletişim için: https://guns.lol/smurfsx linkinden sunucumuza katılabilir bana ulaşabilirsiniz.
 
