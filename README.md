@@ -1,24 +1,29 @@
-# Sunucunularınıza-Bot-Yapılır
-# Extra kod yapılır ek ücrete girer bilginiz olmak üzere.
-# İletişim için: https://guns.lol/smurfsx linkinden sunucumuza katılabilir bana ulaşabilirsiniz.
+# Sunucunuza Bot Yapılır
+Ekstra kod yapılırsa ek ücrete tabidir. Bilginiz olsun.
 
-# Top komutundaki görsel bir sunucudan alınmıştır üzerinde oynama yapılmıştır bilginiz olsun.
+İletişim için: [https://guns.lol/smurfsx](https://guns.lol/smurfsx) linkinden sunucumuza katılabilir ve bana ulaşabilirsiniz.
 
-![Screenshot_1](https://github.com/user-attachments/assets/ff11a565-ac8e-4dff-9e3c-49eaf255d6a8)
-![Screenshot_2](https://github.com/user-attachments/assets/0aea2026-e4fc-4ed4-8493-ac767d06b018)
+## 📷 Projelerimden Bazı Ekran Görüntüleri
 
-![Screenshot_1](https://github.com/user-attachments/assets/634665fa-9b27-4c99-bfa4-9e30d8b5e1f9)
-![Screenshot_2](https://github.com/user-attachments/assets/ec5e536e-e892-46a5-a825-362c92acd9a2)
-![Screenshot_3](https://github.com/user-attachments/assets/1ce5ad7f-edd7-4792-85b7-c59866557ca4)
-![Screenshot_4](https://github.com/user-attachments/assets/21104278-7cb2-4ea9-8583-e2fcd69ee3f1)
-![Screenshot_5](https://github.com/user-attachments/assets/afafc9d9-6d1f-4b8f-bdf2-3ec1bc93ecd9)
-![Screenshot_6](https://github.com/user-attachments/assets/3f45718b-95f1-43b4-9017-c572024b1719)
+### ⬇ Geliştirdikçe Görselleri Arttıracağım. Aşağıdan Şimdi tıkla bakim gör sistemleri. 🎫
 
-![Screenshot_1](https://github.com/user-attachments/assets/0037a900-c890-4431-997b-df9f54ce24a1)
-![Screenshot_3](https://github.com/user-attachments/assets/71560d5d-a0f2-4a22-8259-07c9608013fc)
-![voice](https://github.com/user-attachments/assets/6adcdc67-1100-47c2-82cf-f8bf1fc1b009)
-![message](https://github.com/user-attachments/assets/817e5a73-d821-48b0-b87a-c091c187283e)
-![user](https://github.com/user-attachments/assets/486c5762-cb88-497c-8a07-83cf1662029c)
-![stream](https://github.com/user-attachments/assets/c4968135-4cbc-4b33-b65f-6e135cf8c545)
-![camera](https://github.com/user-attachments/assets/6bae13ee-3ba3-4a2d-8c8b-9867b18c5d3f)
+<details>
+  <summary> Tıkla ➡ Botumun Görselleri ⬅ </summary>
 
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ----------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------- |
+  | <img src="https://r.resimlink.com/IpbDHzgeSMa.png" />  | <img src="https://r.resimlink.com/pRAsbEh.png" /> | <img src="https://r.resimlink.com/lfpWGTKOX.png" /> | <img src="https://r.resimlink.com/YZ4bs9Xw8_I.png" /> |
+
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ----------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------- |
+  | <img src="https://r.resimlink.com/cOKR_z6.png" />  | <img src="https://r.resimlink.com/ygIE08CcDHzJ.png" /> | <img src="https://cdn.discordapp.com/attachments/1228761025554153504/1254619018405613698/x7CNwvLud6-i.png?ex=667a2683&is=6678d503&hm=e1ef9699dc1c26de879e4cb6037b31bb4825d0618e77d4ad04aa0bf0dc9b5d07&)" /> | <img src="https://r.resimlink.com/XV5pxw.png" /> |
+
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ----------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------- |
+  | <img src="https://r.resimlink.com/DwigFNj32t.png" />  | <img src="https://r.resimlink.com/g9ZlxYq-.png" /> | <img src="https://r.resimlink.com/3xmiVe-ITR.png" /> | <img src="https://r.resimlink.com/DibYf.png" /> |
+
+  | Smurfsx                             | Smurfsx                                   | Smurfsx                                    | Smurfsx                      |
+  | ----------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------- |
+  | <img src="https://r.resimlink.com/uP6h0B.png" />  | <img src="https://r.resimlink.com/ogbz-0QMKJL.png" /> | <img src="https://r.resimlink.com/lmqh1I-NW.png" /> | <img src="https://r.resimlink.com/XhnGDT6SKt.png" /> |
+
+</details>
